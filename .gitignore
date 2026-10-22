@@ -1,0 +1,7 @@
+.DS_Store
+.env
+# real API keys live here; use .mcp.json.example as the template
+.mcp.json
+.mcp.json.bak
+# backups the hunt writes before every rewrite (git history covers this)
+*.bak.csv
